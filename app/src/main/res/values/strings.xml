@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CitIndi</string>
+    <string name="add_text">Add</string>
+    <string name="sight_seeing_headline">Sight Seeing ToDos</string>
+    <string name="plan_text">your plan of the day…</string>
+    <string name="sentences_headline">Important Sentences</string>
+    <string name="sign_up_link">Sign up here</string>
+    <string name="login_headline">Login</string>
+    <string name="username_textfield">Username</string>
+    <string name="password_textfield">Password</string>
+    <string name="repeat_password_textfield">Repeat Password</string>
+    <string name="sign_headline">Sign Up</string>
+    <string name="login_link">Login here</string>
+    <string name="city_name_form">What´s the City Name?</string>
+    <string name="country_form">In which Country are you?</string>
+    <string name="cta_image">Upload Image</string>
+    <string name="add_city_button">Add City</string>
+    <string name="add_date_button">Add Date</string>
+    <string name="date_textfield">Arrival/Leaving date</string>
+    <string name="change_account_button">Change Account</string>
+    <string name="delete_account_button">Delete Account</string>
+    <string name="logout_button">Logout</string>
+    <string name="back_home_button">Go Back Home</string>
+</resources>
